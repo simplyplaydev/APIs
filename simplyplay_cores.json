@@ -8,7 +8,7 @@
   },
   {
     "name":       "test_libretro.so",
-    "sha1":       "3147af2bdfd8c00624b6c6ba4b0b0c28010c8e84",
+    "sha1":       "9cd8131bfae850d7ccdcad3ec7ce27108ed3ca2a",
     "date":       "2026-03-20",
     "url":        "https://github.com/simplyplaydev/simplyplay_cores/raw/refs/heads/main/linux_arm64/fbneo_libretro.so.zip",
     "url_info":   "https://github.com/simplyplaydev/simplyplay_cores/raw/refs/heads/main/linux_arm64/test_libretro.info",
