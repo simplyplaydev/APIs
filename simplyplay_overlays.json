@@ -1,0 +1,14 @@
+{
+  "packs": [
+    {
+      "name": "SIMPLYPLAY PACK OVERLAYS",
+      "url": "https://github.com/simplyplaydev/overlays_simplyplay.git",
+      "desc": "ARCADE + ROMS, AND CONSOLE"
+    },
+    {
+      "name": "test",
+      "url": "test",
+      "desc": "test"
+    }
+  ]
+}
