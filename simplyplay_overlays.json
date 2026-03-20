@@ -1,16 +1,18 @@
 {
   "packs": [
     {
-      "id": "1",
+      "id": "simplyplay1",
       "name": "SIMPLYPLAY PACK OVERLAYS",
       "url": "https://github.com/simplyplaydev/overlays_simplyplay.git",
-      "desc": "ARCADE + ROMS AND CONSOLE"
+      "desc": "ARCADE + ROMS AND CONSOLE",
+      "size": "1600MB"
     },
     {
-      "id": "2",
-      "name": "SIMPLYPLAY PACK 2",
-      "url": "https://github.com/simplyplaydev/overlays_simplyplay2.git",
-      "desc": "DESCRICAO DO PACK 2"
+      "id": "test",
+      "name": "TEST PACK",
+      "url": "test",
+      "desc": "test",
+      "size": "100MB"
     }
   ]
 }
